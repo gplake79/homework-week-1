@@ -4,7 +4,7 @@
 
 https://gplake79.github.io/homework-week-1
 
-Click here to view project on GitHUb pages.
+Click [here](https://github.com/gplake79/homework-week-1) to view project on GitHUb pages.
 
 ## Description
 
