@@ -16,7 +16,7 @@ so that our own site is optimized for search engines is required.
 - Replaced HTML elements with semantic HTML elements.
 - Made images more accessible by adding alt attributes.
 - Fixed nav bar link bug.
-- Updated title the title of the website for SEO.
+- Updated the title of the website for SEO.
 - Formatted code using lint (prettier)
 
 ## Getting started
