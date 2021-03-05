@@ -2,13 +2,14 @@
 
 # Horiseon project
 
-<https://gplake79.github.io/homework-week-1
+https://gplake79.github.io/homework-week-1
 
 Click here to view project on GitHUb pages.
 
 ## Description
 
-TODO
+A marketing agency has hired you to refactor an existing site to make it more accessible. A codebase that follows accessibility standards
+so that our own site is optimized for search engines is required.
 
 ## What did we do?
 
