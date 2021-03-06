@@ -2,9 +2,7 @@
 
 # Horiseon project
 
-https://gplake79.github.io/homework-week-1
-
-Click [here](https://github.com/gplake79/homework-week-1) to view project on GitHub pages.
+Click [here](https://gplake79.github.io/homework-week-1) to view project on GitHub pages.
 
 ## Description
 
