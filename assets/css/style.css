@@ -1,13 +1,22 @@
+/* Universal selector matching elements */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* ############
+   Body section
+   ############
+*/
 body {
   background-color: #d9dcd6;
 }
 
+/* ##############
+   Header section
+   ##############
+*/
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,6 +34,7 @@ body {
   color: #d9dcd6;
 }
 
+/* Header navigation bar section  */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -51,6 +61,7 @@ p {
   font-size: 16px;
 }
 
+/* Background image */
 .hero {
   height: 800px;
   width: 100%;
