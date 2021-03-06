@@ -106,7 +106,7 @@ p {
   color: #ffffff;
 }
 
-/* group benefit lead,brand and cost */
+/* group css properties for h3 in benefit lead,brand and cost */
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -114,7 +114,7 @@ p {
   text-align: center;
 }
 
-/* group benefit lead,brand and cost */
+/* group css properties for img in benefit lead,brand and cost */
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
