@@ -11,7 +11,7 @@ Click [here](https://github.com/gplake79/homework-week-1) to view project on Git
 A marketing agency has hired you to refactor an existing site to make it more accessible. A codebase that follows accessibility standards
 so that our own site is optimized for search engines is required.
 
-## What did we do?
+## What did I do?
 
 - Replaced HTML elements with semantic HTML elements.
 - Made images more accessible by adding alt attributes.
